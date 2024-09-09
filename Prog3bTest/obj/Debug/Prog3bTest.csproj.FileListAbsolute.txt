@@ -1,0 +1,7 @@
+C:\Users\alici\source\repos\Prog3bTest\bin\Debug\Prog3bTest.exe.config
+C:\Users\alici\source\repos\Prog3bTest\bin\Debug\Prog3bTest.exe
+C:\Users\alici\source\repos\Prog3bTest\bin\Debug\Prog3bTest.pdb
+C:\Users\alici\source\repos\Prog3bTest\obj\Debug\Prog3bTest.csproj.AssemblyReference.cache
+C:\Users\alici\source\repos\Prog3bTest\obj\Debug\Prog3bTest.csproj.CoreCompileInputs.cache
+C:\Users\alici\source\repos\Prog3bTest\obj\Debug\Prog3bTest.exe
+C:\Users\alici\source\repos\Prog3bTest\obj\Debug\Prog3bTest.pdb
